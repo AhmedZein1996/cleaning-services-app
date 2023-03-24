@@ -2,15 +2,67 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+**Packages :**
 
-A few resources to get you started if this is your first Flutter project:
+- flutter_svg:
+- google_sign_in:
+- firebase_auth: 
+- firebase_core: 
+- provider:
+- graphql_flutter: 
+- shared_preferences: 
+- fluttertoast: 
+- scratcher: 
+- confetti: 
+- translator:
+- intl_utils:
+- webview_flutter: 
+- double_back_to_close_app:
+- url_launcher:       
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Video Preview of Final UI
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Preview](/cleaining _app.mp4)
+
+## Screens it contains:
+
+=> Onboarding
+
+=> Login
+
+=> Forgot Password
+
+=> Sign Up
+
+=> Complete Profile
+
+=> OTP Verification
+
+=> Home Page
+
+=> Favorite Page
+
+=> Profile  page
+
+=> Product Details
+
+=> Order
+
+=> Bottom Navigation Bar 
+
+## Photos
+![Preview](/login.jpg)
+![Preview](home)
+![Preview](cleaning_info.jpg)
+![Preview](user_info.jpg)
+![Preview](mpre_user_info.jpg)
+![Preview](order.jpg)
+![Preview](oederlist.jpg)
+![Preview](profile.jpg)
+![Preview](feedback.jpg)
+![Preview](enquires.jpg)
+![Preview](contactus.jpg)
+
+
+
