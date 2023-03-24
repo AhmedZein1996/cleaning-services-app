@@ -1,19 +1,16 @@
 # clean_services_app
 
 ##  Some of the cool features applied in the project:
-- Flutter bloc(cubit)
-- Enhanced clean architecture.
-- Firebase Firestore, Firebase Storage, and Firebase Auth.
-- Real-Time Changes from Firebase using Streams.
-- Phone Number Authentication
-- 1-1 Chatting with Contacts Only
-- Text, Image, GIF, Audio(Recording), Video & Emoji Sharing
-- Online/Offline Status
-- Seen Message
-- Replying to Messages
-- Auto Scroll on New Messages
-- Custom gallery & camera & video display
-
+- Provider to manage states
+- Scratch gift card animation
+- Firebase Auth.
+- Google Sign in.
+- Flutter GraphQl Api
+- Localization (multi-language)
+- Payment methods
+- Dark mode
+- User Feedback and Contact with Us
+- Frequently asked questions and inquiries
 
 **Packages :**
 
