@@ -23,7 +23,7 @@ A new Flutter project.
 
 ### Video Preview of Final UI
 
-![Preview](/cleaining _app.mp4)
+![Preview](https://github.com/AhmedZein1996/cleaning-services-app/blob/main/cleaining%20_app.mp4)
 
 ## Screens it contains:
 
