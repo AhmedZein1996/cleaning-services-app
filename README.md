@@ -1,6 +1,18 @@
 # clean_services_app
 
-A new Flutter project.
+##  Some of the cool features applied in the project:
+- Flutter bloc(cubit)
+- Enhanced clean architecture.
+- Firebase Firestore, Firebase Storage, and Firebase Auth.
+- Real-Time Changes from Firebase using Streams.
+- Phone Number Authentication
+- 1-1 Chatting with Contacts Only
+- Text, Image, GIF, Audio(Recording), Video & Emoji Sharing
+- Online/Offline Status
+- Seen Message
+- Replying to Messages
+- Auto Scroll on New Messages
+- Custom gallery & camera & video display
 
 
 **Packages :**
@@ -60,17 +72,26 @@ A new Flutter project.
 => settings
 
 ## Photos
-![Preview](/login.jpg)
-![Preview](home.jpg)
-![Preview](cleaning_info.jpg)
-![Preview](user_info.jpg)
-![Preview](more_user_info.jpg)
-![Preview](order.jpg)
-![Preview](oederlist.jpg)
-![Preview](profile.jpg)
-![Preview](feedback.jpg)
-![Preview](enquires.jpg)
-![Preview](contactus.jpg)
+| 1 | 2|
+|------|-------|
+|<img src="/login.jpg" width="400">|<img src="home.jpg" width="400">|
 
+| 3 | 4|
+|------|-------|
+|<img src="cleaning_info.jpg" width="400">|<img src="user_info.jpg" width="400">|
 
+| 5 | 6|
+|------|-------|
+|<img src="more_user_info.jpg" width="400">|<img src="order.jpg" width="400">|
 
+| 7 | 8|
+|------|-------|
+|<img src="oederlist.jpg" width="400">|<img src="profile.jpg" width="400">|
+
+| 9 | 10|
+|------|-------|
+|<img src="feedback.jpg" width="400">|<img src="enquires.jpg" width="400">
+
+| 11 | 
+|------|
+|<img src="contactus.jpg" width="400">
