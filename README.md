@@ -21,7 +21,7 @@ A new Flutter project.
 - double_back_to_close_app:
 - url_launcher:       
 
-### Video Preview of Final UI
+### Video Preview of Clean Services App
 
 ![Preview](https://github.com/AhmedZein1996/cleaning-services-app/blob/main/cleaining%20_app.mp4)
 
