@@ -27,31 +27,33 @@ A new Flutter project.
 
 ## Screens it contains:
 
-=> Onboarding
+=> Welcome
 
 => Login
 
-=> Forgot Password
-
 => Sign Up
 
-=> Complete Profile
-
-=> OTP Verification
+=> Scratch off a new user gift card
 
 => Home Page
 
-=> Favorite Page
+=> Create a feedback
 
-=> Profile  page
+=> Feedbacks
 
-=> Product Details
+=> Enquiries
+
+=>  Contactus
+
+=> Profile
 
 => Order
 
-=> Bottom Navigation Bar 
+=> OrderHistory
 
-=> Bottom Navigation Bar 
+=> Payment
+
+=> settings
 
 ## Photos
 ![Preview](/login.jpg)
