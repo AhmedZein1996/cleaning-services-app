@@ -1,0 +1,1 @@
+{"appName" : "تنظيف التطبيق","contactUs" : "اتصل بنا","setting" : "جلسة","orderList" : "لائحة الطلبات",
