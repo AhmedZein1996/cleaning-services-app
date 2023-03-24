@@ -51,6 +51,8 @@ A new Flutter project.
 
 => Bottom Navigation Bar 
 
+=> Bottom Navigation Bar 
+
 ## Photos
 ![Preview](/login.jpg)
 ![Preview](home.jpg)
