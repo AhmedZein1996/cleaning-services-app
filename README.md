@@ -53,10 +53,10 @@ A new Flutter project.
 
 ## Photos
 ![Preview](/login.jpg)
-![Preview](home)
+![Preview](home.jpg)
 ![Preview](cleaning_info.jpg)
 ![Preview](user_info.jpg)
-![Preview](mpre_user_info.jpg)
+![Preview](more_user_info.jpg)
 ![Preview](order.jpg)
 ![Preview](oederlist.jpg)
 ![Preview](profile.jpg)
