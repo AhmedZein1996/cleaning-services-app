@@ -47,6 +47,10 @@ A new Flutter project.
 
 => Profile
 
+=> Cleaning information
+
+=> User information
+
 => Order
 
 => OrderHistory
