@@ -7,6 +7,7 @@
 - Google Sign in.
 - Flutter GraphQl Api
 - Localization (multi-language)
+- Web View
 - Payment methods
 - Dark mode
 - User Feedback and Contact with Us
