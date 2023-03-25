@@ -1,4 +1,7 @@
 # clean_services_app
+This is an application for cleaning services. The user can sign up for an account through email or Google. If it's their first time signing up, they receive a gift in the form of a scratch card that reveals their gift. Then they can access the main page where available cleaning services are displayed. They select the service they need and go through three steps. 
+The first step is to enter specific information about the service they require, such as how frequently they need it and when they need it or the size of the area that requires cleaning. The second step is to enter personal information such as their name, address, and phone number. The third step displays all the information the user has entered in a table and confirms the order. The payment process begins from there. 
+There is a page for frequently asked questions, a page for services that have been requested, and a page for contacting the owner through email, WhatsApp, or the website. The user can also provide feedback about their experience within the application and send it to the owner. The owner can respond to the user's feedback, and it will be displayed within the application. Additionally, there is a settings page where the user can change the application's appearance to dark mode and switch the language of the application.
 
 ##  Some of the cool features applied in the project:
 - Provider to manage states
