@@ -73,6 +73,8 @@ There is a page for frequently asked questions, a page for services that have be
 => settings
 
 ## Photos
+![Preview](/Cleaning_design.png)
+
 | 1 | 2|
 |------|-------|
 |<img src="/login.jpg" width="400">|<img src="home.jpg" width="400">|
